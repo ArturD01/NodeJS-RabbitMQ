@@ -1,0 +1,20 @@
+{
+  "name": "ht",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon m1.js",
+    "serve2": "nodemon m2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [],
+  "description": ""
+}
